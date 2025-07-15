@@ -16,9 +16,7 @@
 ## Technology Stack
 * Backend: Python
 * Libraries: Selenium, Beautiful Soup, Pandas
-* Database: None
-* Frontend: None
-* ML: None
+
 
 ## Getting Started
 To get started with this project, follow these steps:
